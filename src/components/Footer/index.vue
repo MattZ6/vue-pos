@@ -1,48 +1,14 @@
 <template>
-  <!-- <footer class="page-footer font-small pt-4 bgEscuro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 mb-4">
-          <form class="form-inline">
-            <input
-              class="form-control form-control-sm mr-3 w-75"
-              type="text"
-              placeholder="Search"
-              aria-label="Search"
-            >
-            <i class="fa fa-search" aria-hidden="true"></i>
-          </form>
-        </div>
-
-        <div class="col-md-6 mb-4">
-          <form class="input-group">
-            <input
-              type="text"
-              class="form-control form-control-sm"
-              placeholder="Your email"
-              aria-label="Your email"
-              aria-describedby="basic-addon2"
-            >
-            <div class="input-group-append">
-              <button class="btn btn-sm btn-outline-white my-0" type="button">Sign up</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-    <div class="footer-copyright text-center py-3">
-      © 2018 Copyright:
-      <a href="https://mdbootstrap.com/education/bootstrap/">MDBootstrap.com</a>
-    </div>
-  </footer>-->
-
-  <footer class="page-footer font-small blue pt-4 mt-5">
+  <footer class="page-footer font-small blue pt-4 mt-5 bgEscuro">
     <div class="container">
       <div class="container-fluid text-center text-md-left">
         <div class="row">
           <div class="col-md-6 mt-md-0 mt-3">
-            <h5>Obrigado por acessar nossa Lojinha!</h5>
-            <p>Você será sembre bem-vindo aqui! 😊</p>
+            <h5>
+              Obrigado por acessar nossa Lojinha!
+              <i class="fa fa-heart"></i>
+            </h5>
+            <p>Esperamos que tenha tido uma boa experiência. Você é e sempre será bem-vindo! 😉</p>
           </div>
 
           <hr class="clearfix w-100 d-md-none pb-3">
@@ -52,13 +18,13 @@
 
             <ul class="list-unstyled">
               <li>
-                <a href="#!">Link 1</a>
+                <a href="#!">Xbox</a>
               </li>
               <li>
-                <a href="#!">Link 2</a>
+                <a href="#!">Playstation</a>
               </li>
               <li>
-                <a href="#!">Link 3</a>
+                <a href="#!">PC</a>
               </li>
               <li>
                 <a href="#!">Link 4</a>
@@ -87,9 +53,14 @@
         </div>
       </div>
 
-      <div class="footer-copyright text-center py-3">
-        © 2018 Copyright:
-        <a href="https://mdbootstrap.com/education/bootstrap/">MDBootstrap.com</a>
+      <div class="footer-copyright text-center p-3">
+        © 2019 Copyright
+        <br>
+        <strong>Matheus Felipe Zanin</strong>
+        <br>
+
+        <i class="fa fa-github mr-2"></i>
+        <a href="https://github.com/MattZ6/vue-pos" target="blank">Projeto Lojinha</a>
       </div>
     </div>
   </footer>

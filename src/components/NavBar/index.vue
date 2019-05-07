@@ -27,10 +27,16 @@
           </div>
         </form>
 
-        <button type="button" class="btn btn-md corClara">
-          <span class="badge badge-pill badge-danger">4</span>
-          <i class="fa fa-shopping-cart"></i>
-        </button>
+        <div>
+          <button type="button" class="btn btn-md corClara">
+            <span class="badge-danger badge">4</span>
+            <i class="fa fa-shopping-cart"></i>
+          </button>
+
+          <button type="button" class="btn btn-md corClara">
+            <i class="fa fa-user-circle"></i>
+          </button>
+        </div>
       </div>
     </nav>
 
@@ -57,6 +63,6 @@ export default {
 };
 </script>
 
-<style lang='scss' scoped>
+<style lang="scss" scoped>
 @import "./styles.scss";
 </style>
