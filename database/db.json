@@ -1,0 +1,176 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title": "Saindo do forno!",
+      "aside": "😋",
+      "description": "Fique por dentro dos lançamentos mais quentes do momento",
+      "products": [
+        {
+          "id": 1,
+          "title": "Days Gone",
+          "oldPrice": "R$ 210,00",
+          "price": "R$ 190,90",
+          "conditions": "ou 3x de R$ 36,63",
+          "thumb": "https://media.playstation.com/is/image/SCEA/days-gone-listing-thumb-01-ps4-us-10jan19?$facebook$",
+          "platform": "playstation"
+        },
+        {
+          "id": 2,
+          "title": "Mortal Kombat XI",
+          "price": "R$ 179,99",
+          "thumb": "https://techraptor.net/wp-content/uploads/2019/02/mortal-kombat-11-boxart-logo-902x507.jpg",
+          "platform": "playstation"
+        },
+        {
+          "id": 3,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 4,
+          "title": "Mortal Kombat XI - Premium Edition",
+          "price": "R$ 599,99",
+          "conditions": "ou 10x de R$ 59,99",
+          "thumb": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcsA3TaFoXkW5_NzNv7OvI3qXDEvmQrKyDooVthHBmHePMDMPehOjSfDP1uyuFoDzBA0n_bn04e7LWiE3KB3bgsP.8LZAfCipHm31NFpM_hh40mjPiKPnuuBN8Bb7tUNkKuNIh3_mrkz8W.VdDsrq7ajKJpTPl4Udotj9iPTKWaEY-&h=1080&w=1920&format=jpg",
+          "platform": "playstation"
+        },
+        {
+          "id": 5,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Em destaque",
+      "description": "Os mais comprados, consequentemente os mais jogados",
+      "products": [
+        {
+          "id": 1,
+          "title": "Days Gone",
+          "price": "R$ 190,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 2,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 3,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 4,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 5,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mais vendidos de Playstation",
+      "description": "Segundo nossos clientes, os melhores da plataforma 😉",
+      "products": [
+        {
+          "id": 1,
+          "title": "Days Gone",
+          "price": "R$ 190,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 2,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 3,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 4,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 5,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mais vendidos de Xbox",
+      "description": "Coroados pelos magos da comunidade como o santo graal da plataforma! 🔮",
+      "products": [
+        {
+          "id": 1,
+          "title": "Days Gone",
+          "price": "R$ 190,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 2,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 3,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 4,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        },
+        {
+          "id": 5,
+          "title": "God of War",
+          "price": "R$ 109,90",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": "playstation"
+        }
+      ]
+    }
+  ]
+}

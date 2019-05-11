@@ -3,7 +3,7 @@
     <header>
       <div>
         <h2>{{ title }}</h2>
-        {{ emoji }}
+        {{ aside }}
       </div>
       <span>{{ description }}</span>
     </header>
@@ -19,7 +19,7 @@ import Product from "./Product";
 
 export default {
   name: "ProductList",
-  props: ["title", "emoji", "description", "products"],
+  props: ["title", "aside", "description", "products"],
   components: { Product },
   data: function() {
     return { productsList: this.products };

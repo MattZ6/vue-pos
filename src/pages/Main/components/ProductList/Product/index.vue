@@ -1,17 +1,16 @@
 <template>
   <router-link to="/product">
     <main>
-      <img v-bind:src="product.image">
+      <img v-bind:src="product.thumb">
       <p
         v-if="product.platform"
-        :class="product.platform === 'Xbox' ? 'xbox' : 'play'"
+        :class="product.platform === 'xbox' ? 'xbox' : 'play'"
       >{{ product.platform }}</p>
       <section>
-        <small></small>
-        <small>R$ 109,99</small>
+        <small>{{ product.oldPrice }}</small>
         <div>
           <strong>{{ product.price }}</strong>
-          <small>ou 3x de R$ 9,99</small>
+          <small>{{ product.conditions }}</small>
         </div>
         <span>{{ product.title }}</span>
       </section>
