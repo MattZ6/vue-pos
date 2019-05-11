@@ -1,4 +1,5 @@
-# projeto
+# Projeto Lojinha
+Projeto desenvolvido utilizando **VueJs** como projeto final da disciplina de Front End da Pós Graduação de Desenvolvimento Web
 
 ## Project setup
 ```

@@ -45,14 +45,12 @@
         </strong>
       </aside>
     </section>
+
+    <hr class="clearfix w-100 d-md-none pb-3">
   </main>
 </template>
 
 <script>
-window.scrollTo({
-  top: 0
-});
-
 export default {};
 </script>
 
