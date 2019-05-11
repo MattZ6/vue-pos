@@ -1,0 +1,94 @@
+main {
+  h1 {
+    margin: 0 10px 0 0;
+    text-align: left;
+    padding: 0;
+  }
+
+  section {
+    aside {
+      display: flex;
+      flex-direction: column;
+
+      text-align: left;
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        small {
+          color: #999;
+        }
+
+        span {
+          font-weight: bold;
+          padding: 3px 5px;
+          border-radius: 5px;
+          font-size: 13px;
+        }
+
+        .soldOut {
+          background: rgb(226, 56, 56);
+          color: #fff;
+        }
+      }
+
+      .title {
+        font-size: 2rem;
+        margin: 10px 0 0;
+        padding: 0;
+        font-weight: 500;
+      }
+
+      .platform {
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 12px;
+        color: #444;
+        margin-top: -8px;
+      }
+
+      p {
+        font-size: 13px;
+        text-align: justify;
+        margin: 10px 0;
+      }
+
+      div {
+        display: flex;
+        margin: 15px 0;
+
+        strong {
+          font-size: 2.4rem;
+        }
+
+        small {
+          color: #666;
+        }
+      }
+
+      button {
+        margin: 10px 8px;
+        padding: 15px;
+        border-radius: 5px;
+        border: none;
+        font-weight: bold;
+        color: #fff;
+        background: rgb(60, 122, 202);
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+        transition: all 0.16s;
+        font-size: 1rem;
+        cursor: pointer;
+
+        &:hover {
+          background: rgb(61, 130, 221);
+          border-radius: 8px;
+        }
+      }
+
+      strong {
+        text-align: center;
+      }
+    }
+  }
+}

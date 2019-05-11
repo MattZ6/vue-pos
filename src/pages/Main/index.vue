@@ -1,82 +1,107 @@
 <template>
-  <div>
-    <header>
-      <div>
-        <h2>Saindo do forno!</h2>😋
-      </div>
-      <p>Fique por dentro dos lançamentos mais quentes do momento</p>
-    </header>
+  <main>
+    <ProductList
+      :title="'Saindo do forno!'"
+      :description="'Fique por dentro dos lançamentos mais quentes do momento'"
+      :emoji="'😋'"
+      :products="products"
+    />
 
-    <div class="lista-produtos">
-      <div class="produto">
-        <div class="imagem"></div>
-        <div class="conteudo">
-          <strong>R$ 68,99</strong>
-          <span>God of War</span>
-        </div>
-      </div>
-      <div class="produto">
-        <div class="imagem"></div>
-        <div class="conteudo">
-          <span>God of War</span>
-          <div>
-            <strong>R$ 127,99</strong>
-            <sup>3x de R$ 9,99</sup>
-          </div>
-        </div>
-      </div>
-      <div class="produto">
-        <div class="imagem"></div>
-        <div class="conteudo">
-          <strong>R$ 68,99</strong>
-          <span>God of War</span>
-        </div>
-      </div>
-      <div class="produto">
-        <div class="imagem"></div>
-        <div class="conteudo">
-          <strong>R$ 68,99</strong>
-          <span>God of War</span>
-        </div>
-      </div>
-    </div>
+    <ProductList
+      :title="'Em destaque'"
+      :description="'Os mais comprados, consequentemente os mais jogados'"
+      :products="products"
+    />
 
-    <header>
-      <div>
-        <h2>Em destaque</h2>
-      </div>
-      <p>Os mais comprados, consequentemente os mais jogados</p>
-    </header>
+    <ProductList
+      :title="'Mais vendidos de Playstation'"
+      :description="'Segundo nossos clientes, os melhores da plataforma 😉'"
+      :products="products"
+    />
 
-    <div class="lista-produtos">
-      <div class="produto">
-        <div class="imagem"></div>
-        <div class="conteudo">
-          <strong>R$ 68,99</strong>
-          <span>God of War</span>
-        </div>
-      </div>
-      <div class="produto">
-        <div class="imagem"></div>
-        <div class="conteudo">
-          <span>God of War</span>
-          <div>
-            <strong>R$ 68,99</strong>
-            <small>3x de R$ 9,99</small>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+    <ProductList
+      :title="'Mais vendidos de Xbox'"
+      :description="'Coroados pelos magos da comunidade como o santo graal da plataforma! 🔮'"
+      :products="products"
+    />
+  </main>
 </template>
 
+
+
 <script>
+import ProductList from "./components/ProductList";
+
 export default {
-  name: "Main"
+  name: "Main",
+  components: {
+    ProductList
+  },
+  data: function() {
+    return {
+      products: [
+        {
+          id: Math.random(),
+          title: "Nome extremamente grande para ser exibido ali",
+          price: "R$ 68,99",
+          image:
+            "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          platform: "Xbox"
+        },
+        {
+          id: Math.random(),
+          title: "God of War",
+          price: "R$ 68,99",
+          image:
+            "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png"
+          // platform: "Playstation"
+        },
+        {
+          id: Math.random(),
+          title: "God of War",
+          price: "R$ 68,99",
+          image:
+            "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          platform: "Playstation"
+        },
+        {
+          id: Math.random(),
+          title: "God of War",
+          price: "R$ 68,99",
+          image:
+            "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          platform: "Playstation"
+        },
+        {
+          id: Math.random(),
+          title: "God of War",
+          price: "R$ 68,99",
+          image:
+            "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          platform: "Xbox"
+        },
+        {
+          id: Math.random(),
+          title: "God of War",
+          price: "R$ 68,99",
+          image:
+            "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          platform: "Playstation"
+        },
+        {
+          id: Math.random(),
+          title: "God of War",
+          price: "R$ 68,99",
+          image:
+            "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          platform: "Xbox"
+        }
+      ]
+    };
+  }
 };
 </script>
 
 <style lang="scss" scoped>
 @import "./styles.scss";
 </style>
-
