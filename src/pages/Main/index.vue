@@ -1,14 +1,18 @@
 <template>
-  <main>
-    <ProductList
-      v-for="productList in products"
-      :key="productList.id"
-      :title="productList.title"
-      :aside="productList.aside"
-      :description="productList.description"
-      :products="productList.products"
-    />
-  </main>
+  <div>
+    <main v-if="!loading">
+      <ProductList
+        v-for="productList in products"
+        :key="productList.id"
+        :title="productList.title"
+        :aside="productList.aside"
+        :description="productList.description"
+        :products="productList.products"
+      />
+    </main>
+
+    <main v-if="loading">Carregando...</main>
+  </div>
 </template>
 
 <script>
@@ -23,12 +27,14 @@ export default {
   },
   data: function() {
     return {
-      products: []
+      products: [],
+      loading: true
     };
   },
   async created() {
     const { data } = await api.get(`/sections`);
     this.products = data;
+    this.loading = false;
   }
 };
 </script>
