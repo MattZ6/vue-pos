@@ -9,6 +9,7 @@ main {
 
   position: relative;
   min-width: 220px;
+  max-width: 220px;
   margin: 10px;
   background: #fff;
   border-radius: 6px;
@@ -22,7 +23,7 @@ main {
   }
 
   img {
-    width: 220px;
+    width: inherit;
     height: 230px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
@@ -109,4 +110,10 @@ main {
       overflow: hidden;
     }
   }
+}
+
+.big {
+  min-width: 260px;
+  max-width: 260px;
+  margin: 10px 0;
 }

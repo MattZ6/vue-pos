@@ -18,10 +18,10 @@
 
             <ul class="list-unstyled">
               <li>
-                <router-link class="customLink" to="/products/2">Xbox</router-link>
+                <router-link class="customLink" to="/cattegorie/2">Xbox</router-link>
               </li>
               <li>
-                <router-link class="customLink" to="/products/1">Playstation</router-link>
+                <router-link class="customLink" to="/cattegorie/1">Playstation</router-link>
               </li>
             </ul>
           </div>

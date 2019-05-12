@@ -20,10 +20,10 @@ export default new Router({
       component: () => import("./pages/Product")
     },
     {
-      path: "/products/:id",
-      name: "products",
+      path: "/cattegorie/:id",
+      name: "cattegorie",
       props: true,
-      component: () => import("./pages/Products")
+      component: () => import("./pages/Cattegorie")
     }
   ]
 });

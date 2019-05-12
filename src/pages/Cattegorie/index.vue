@@ -1,0 +1,67 @@
+<template>
+  <div>
+    <main v-if="!loading">
+      <header>
+        <h2 v-text="this.title"></h2>
+        <p v-text="this.description"></p>
+      </header>
+
+      <section>
+        <Product v-for="product in productsList" :key="product.id" :product="product" :big="true"/>
+      </section>
+    </main>
+
+    <main v-if="loading">
+      <header>
+        <h2>Carregando...</h2>
+        <p>Um instante enquanto carregamos o conteúdo para voce!</p>
+      </header>
+    </main>
+  </div>
+</template>
+
+<script>
+import Product from "@/components/Product";
+
+import api from "../../api";
+
+export default {
+  name: "Cattegorie",
+  components: { Product },
+  data() {
+    return {
+      id: null,
+      title: "",
+      description: "",
+      loading: true,
+      productsList: []
+    };
+  },
+  watch: {
+    $route({ params: { id } }) {
+      this.getProducts(id);
+    }
+  },
+  created() {
+    this.getProducts(this.$route.params.id);
+  },
+  methods: {
+    async getProducts(id) {
+      const { data } = await api.get(`/products?platform=${id}`);
+      this.productsList = data;
+
+      this.title = id == 1 ? "Playstation" : "Xbox";
+      this.description =
+        id == 1
+          ? "Os melhores jogos Playstation 4 você encontra aqui."
+          : "Os melhores da plataforma estão aqui!";
+
+      this.loading = false;
+    }
+  }
+};
+</script>
+
+<style lang="scss" scoped>
+@import "./styles.scss";
+</style>

@@ -42,10 +42,10 @@
 
     <ul class="nav pt-2 justify-content-center">
       <li class="nav-item">
-        <router-link class="nav-link customLink" to="/products/2">Xbox</router-link>
+        <router-link class="nav-link customLink" to="/cattegorie/2">Xbox</router-link>
       </li>
       <li class="nav-item">
-        <router-link class="nav-link customLink" to="/products/1">Playstation</router-link>
+        <router-link class="nav-link customLink" to="/cattegorie/1">Playstation</router-link>
       </li>
     </ul>
   </div>

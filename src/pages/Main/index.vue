@@ -11,7 +11,10 @@
       />
     </main>
 
-    <main v-if="loading">Carregando...</main>
+    <main v-if="loading">
+      <h2>Carregando...</h2>
+      <p>Um instante enquanto carregamos o conteúdo para voce!</p>
+    </main>
   </div>
 </template>
 

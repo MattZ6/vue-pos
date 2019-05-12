@@ -1,6 +1,6 @@
 <template>
   <router-link :to="'/product/' + product.id">
-    <main>
+    <main :class="big ? 'big': ''">
       <img v-bind:src="product.thumb">
 
       <p v-if="product.platform === 1" class="play">playstation</p>
@@ -23,7 +23,7 @@
 <script>
 export default {
   name: "Product",
-  props: ["product"],
+  props: ["product", "big"],
   data: function() {
     return {
       img: this.product.image
