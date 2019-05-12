@@ -18,6 +18,12 @@ export default new Router({
       name: "product",
       props: true,
       component: () => import("./pages/Product")
+    },
+    {
+      path: "/products/:id",
+      name: "products",
+      props: true,
+      component: () => import("./pages/Products")
     }
   ]
 });

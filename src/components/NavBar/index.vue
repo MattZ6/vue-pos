@@ -42,16 +42,10 @@
 
     <ul class="nav pt-2 justify-content-center">
       <li class="nav-item">
-        <a class="nav-link active" href="#">Active</a>
+        <router-link class="nav-link customLink" to="/products/2">Xbox</router-link>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        <router-link class="nav-link customLink" to="/products/1">Playstation</router-link>
       </li>
     </ul>
   </div>

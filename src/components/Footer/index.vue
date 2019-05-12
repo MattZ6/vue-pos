@@ -18,35 +18,20 @@
 
             <ul class="list-unstyled">
               <li>
-                <a href="#!">Xbox</a>
+                <router-link class="customLink" to="/products/2">Xbox</router-link>
               </li>
               <li>
-                <a href="#!">Playstation</a>
-              </li>
-              <li>
-                <a href="#!">PC</a>
-              </li>
-              <li>
-                <a href="#!">Link 4</a>
+                <router-link class="customLink" to="/products/1">Playstation</router-link>
               </li>
             </ul>
           </div>
 
           <div class="col-md-3 mb-md-0 mb-3">
-            <h5 class="text-uppercase">Links</h5>
+            <h5 class="text-uppercase">Links úteis</h5>
 
             <ul class="list-unstyled">
               <li>
-                <a href="#!">Link 1</a>
-              </li>
-              <li>
-                <a href="#!">Link 2</a>
-              </li>
-              <li>
-                <a href="#!">Link 3</a>
-              </li>
-              <li>
-                <a href="#!">Link 4</a>
+                <router-link class="customLink" to="/">Pesquisa</router-link>
               </li>
             </ul>
           </div>

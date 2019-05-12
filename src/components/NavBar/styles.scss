@@ -11,3 +11,15 @@
   margin: -20px 0 0;
   border-radius: 50%;
 }
+
+.customLink {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #333;
+  border-bottom: 2px solid transparent;
+  transition: all 0.16s;
+
+  &:hover {
+    border-color: #333;
+  }
+}
