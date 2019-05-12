@@ -6,10 +6,17 @@
       <section class="row">
         <div class="col-md-8 mb-md-0 mb-3 left">
           <aside>
-            <img v-for="image in product.images" :key="image" :src="image" :alt="product.title">
+            <img
+              v-for="({id, url, selected}, index) in product.images"
+              @mouseover="updateImage(index)"
+              :class="selected ? 'selected': ''"
+              :key="id"
+              :src="url"
+              :alt="product.title"
+            >
           </aside>
           <div class="imageContainer">
-            <img :src="product.images[0]" :alt="product.title">
+            <img :src="image" :alt="product.title">
           </div>
         </div>
 
@@ -23,7 +30,8 @@
           </header>
 
           <span class="title">{{ product.title }}</span>
-          <small class="platform">{{ product.platform }}</small>
+          <small v-if="product.platform === 1" class="platform">Playstation 4</small>
+          <small v-else-if="product.platform === 2" class="platform">Xbox One</small>
 
           <p>{{ product.shortDescription }}</p>
 
@@ -62,12 +70,30 @@ export default {
   data: () => {
     return {
       product: {},
-      loading: true
+      loading: true,
+      selectedImage: 0
     };
+  },
+  methods: {
+    updateImage(index) {
+      if (index === this.selectedImage) return;
+
+      this.product.images[this.selectedImage].selected = false;
+      this.selectedImage = index;
+      this.product.images[index].selected = true;
+    }
+  },
+  computed: {
+    image() {
+      return this.product.images[this.selectedImage].url;
+    }
   },
   async created() {
     const { data } = await api.get(`/products/${this.id}`);
     this.product = data;
+
+    this.product.images[this.selectedImage].selected = true;
+
     this.loading = false;
   }
 };

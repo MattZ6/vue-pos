@@ -2,10 +2,10 @@
   <router-link :to="'/product/' + product.id">
     <main>
       <img v-bind:src="product.thumb">
-      <p
-        v-if="product.platform"
-        :class="product.platform === 'xbox' ? 'xbox' : 'play'"
-      >{{ product.platform }}</p>
+
+      <p v-if="product.platform === 1" class="play">playstation</p>
+      <p v-else-if="product.platform === 2" class="xbox">xbox</p>
+
       <section>
         <small>{{ product.oldPrice }}</small>
         <div
