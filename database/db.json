@@ -1,4 +1,79 @@
 {
+  "products": [
+    {
+      "id": 1,
+      "title": "Days Gone",
+      "oldPrice": "R$ 190,00",
+      "price": "R$ 149,90",
+      "conditions": "ou 5x de R$ 29,98‬",
+      "images": [
+        "https://gamingbolt.com/wp-content/uploads/2019/03/days-gone-image-1.jpg",
+        "http://images.pushsquare.com/news/2019/05/playstation_store_sales_charts_days_gone_and_mortal_kombat_11_duke_it_out_for_the_top_spot/large.jpg",
+        "https://www.gamereactor.pt/media/65/daysgone_2466533b.jpg",
+        "https://s2.best-wallpaper.net/wallpaper/2560x1600/1811/PS4-game-Days-Gone_2560x1600.jpg",
+        "https://cosmonerd.com.br/wp-content/uploads/2019/04/WCCFdaysgone5.jpg"
+      ],
+      "platform": "playstation 4",
+      "shortDescription": "Em um mundo pós apocalíptico, onde pouca bondade é vista por parte da humanidade, Deacon tenta sobreviver em meio das lembranças de seu passado e de sua noiva.",
+      "description": null,
+      "sold": 127,
+      "stock": 384
+    },
+    {
+      "id": 2,
+      "title": "God of War",
+      "price": "R$ 109,99",
+      "conditions": "ou 3x de R$ 36,66‬",
+      "images": [
+        "https://galaxianerd.com/wp-content/uploads/2017/06/God-of-War.jpg",
+        "https://timeline.canaltech.com.br/283482.700/analise-god-of-war-112270.jpg",
+        "https://igamerbrasil.com.br/wp-content/uploads/2018/04/god-of-war-20180402115205.jpg",
+        "http://www.joinvillegames.com.br/blog/wp-content/uploads/2017/09/god_of_war_ps4_1280x720-1210x642.jpg"
+      ],
+      "platform": "playstation 4",
+      "shortDescription": "Vivendo como um homem, fora da sombra dos deuses, Kratos deve se adaptar a terras desconhecidas, ameaças inesperadas e a uma segunda oportunidade de ser pai.",
+      "description": "Um novo começo ousado: sua vingança contra os deuses do Olimpo agora é passado e Kratos vive como um homem comum no reino dos monstros e deuses nórdicos. E é nesse mundo inóspito e implacável que ele precisa lutar para sobreviver... e ensinar seu filho a fazer o mesmo. Essa nova versão surpreendente de God of War desconstrói os principais elementos que definiram a série (combates gratificantes, proporção espetacular e uma narrativa poderosa), combinando-os de uma forma diferente.",
+      "sold": 243,
+      "stock": 98
+    },
+    {
+      "id": 3,
+      "title": "Devil May Cry 5",
+      "oldPrice": "R$ 99,00",
+      "price": "R$ 89,90",
+      "conditions": "ou 3x de R$ 32,93",
+      "images": [
+        "https://cdn.vox-cdn.com/uploads/chorus_asset/file/12335363/redqueen2_png_jpgcopy.jpg",
+        "https://i.ytimg.com/vi/0upodloGrJg/maxresdefault.jpg",
+        "https://gameranx.com/wp-content/uploads/2019/02/maxresdefault-1-5.jpg",
+        "https://steamcdn-a.akamaihd.net/steam/apps/601150/ss_d1e0b403f593f17ad195c5382a7788d71c6f406a.1920x1080.jpg?t=1557194314",
+        "https://i.ytimg.com/vi/p2lWUQHUapM/maxresdefault.jpg"
+      ],
+      "platform": "xbox one",
+      "shortDescription": "Cinco anos após os acontecimentos de DMC 4, Nero monta sua própria agência de caça a demônios baseada em uma van adornada com um letreiro em neon de \"Devil May Cry\" que Dante deu a ele com apoio de Kyrie e sua engenheira, Nico.",
+      "description": "Um novo começo ousado: sua vingança contra os deuses do Olimpo agora é passado e Kratos vive como um homem comum no reino dos monstros e deuses nórdicos. E é nesse mundo inóspito e implacável que ele precisa lutar para sobreviver... e ensinar seu filho a fazer o mesmo. Essa nova versão surpreendente de God of War desconstrói os principais elementos que definiram a série (combates gratificantes, proporção espetacular e uma narrativa poderosa), combinando-os de uma forma diferente.",
+      "sold": 99,
+      "stock": 121
+    },
+    {
+      "id": 4,
+      "title": "Devil May Cry 5",
+      "price": "R$ 158,31",
+      "conditions": "ou 3x de R$ 35,98",
+      "images": [
+        "https://gameranx.com/wp-content/uploads/2019/02/maxresdefault-1-5.jpg",
+        "https://i.ytimg.com/vi/p2lWUQHUapM/maxresdefault.jpg",
+        "https://steamcdn-a.akamaihd.net/steam/apps/601150/ss_d1e0b403f593f17ad195c5382a7788d71c6f406a.1920x1080.jpg?t=1557194314",
+        "https://i.ytimg.com/vi/0upodloGrJg/maxresdefault.jpg",
+        "http://playeroneworld.com.br/wp-content/uploads/2018/11/dante-1.jpg"
+      ],
+      "platform": "playstation 4",
+      "shortDescription": "Cinco anos após os acontecimentos de DMC 4, Nero monta sua própria agência de caça a demônios baseada em uma van adornada com um letreiro em neon de \"Devil May Cry\" que Dante deu a ele com apoio de Kyrie e sua engenheira, Nico.",
+      "description": "Um novo começo ousado: sua vingança contra os deuses do Olimpo agora é passado e Kratos vive como um homem comum no reino dos monstros e deuses nórdicos. E é nesse mundo inóspito e implacável que ele precisa lutar para sobreviver... e ensinar seu filho a fazer o mesmo. Essa nova versão surpreendente de God of War desconstrói os principais elementos que definiram a série (combates gratificantes, proporção espetacular e uma narrativa poderosa), combinando-os de uma forma diferente.",
+      "sold": 102,
+      "stock": 21
+    }
+  ],
   "sections": [
     {
       "id": 1,
@@ -9,14 +84,15 @@
         {
           "id": 1,
           "title": "Days Gone",
-          "oldPrice": "R$ 210,00",
-          "price": "R$ 190,90",
-          "conditions": "ou 3x de R$ 36,63",
+          "oldPrice": "R$ 190,00",
+          "price": "R$ 149,90",
+          "conditions": "ou 5x de R$ 29,98‬",
           "thumb": "https://media.playstation.com/is/image/SCEA/days-gone-listing-thumb-01-ps4-us-10jan19?$facebook$",
           "platform": "playstation"
         },
         {
-          "id": 2,
+          "id": 5,
+          "oldPrice": "R$ 199,99",
           "title": "Mortal Kombat XI",
           "price": "R$ 179,99",
           "thumb": "https://techraptor.net/wp-content/uploads/2019/02/mortal-kombat-11-boxart-logo-902x507.jpg",
@@ -24,13 +100,15 @@
         },
         {
           "id": 3,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
+          "title": "Devil May Cry 5",
+          "oldPrice": "R$ 99,00",
+          "price": "R$ 89,90",
+          "conditions": "ou 3x de R$ 32,93",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+          "platform": "xbox"
         },
         {
-          "id": 4,
+          "id": 6,
           "title": "Mortal Kombat XI - Premium Edition",
           "price": "R$ 599,99",
           "conditions": "ou 10x de R$ 59,99",
@@ -38,10 +116,11 @@
           "platform": "playstation"
         },
         {
-          "id": 5,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "id": 4,
+          "title": "Devil May Cry 5",
+          "price": "R$ 158,31",
+          "conditions": "ou 3x de R$ 35,98",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
           "platform": "playstation"
         }
       ]
@@ -49,42 +128,33 @@
     {
       "id": 2,
       "title": "Em destaque",
-      "description": "Os mais comprados, consequentemente os mais jogados",
+      "description": "Os jogos que são sempre muito bem escolhidos pela galera!",
       "products": [
         {
           "id": 1,
           "title": "Days Gone",
-          "price": "R$ 190,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "oldPrice": "R$ 190,00",
+          "price": "R$ 149,90",
+          "conditions": "ou 5x de R$ 29,98‬",
+          "thumb": "https://media.playstation.com/is/image/SCEA/days-gone-listing-thumb-01-ps4-us-10jan19?$facebook$",
           "platform": "playstation"
         },
         {
           "id": 2,
           "title": "God of War",
-          "price": "R$ 109,90",
+          "price": "R$ 109,99",
+          "conditions": "ou 3x de R$ 36,66‬",
           "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
           "platform": "playstation"
         },
         {
           "id": 3,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
-        },
-        {
-          "id": 4,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
-        },
-        {
-          "id": 5,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
+          "title": "Devil May Cry 5",
+          "oldPrice": "R$ 99,00",
+          "price": "R$ 89,90",
+          "conditions": "ou 3x de R$ 32,93",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+          "platform": "xbox"
         }
       ]
     },
@@ -94,38 +164,28 @@
       "description": "Segundo nossos clientes, os melhores da plataforma 😉",
       "products": [
         {
-          "id": 1,
-          "title": "Days Gone",
-          "price": "R$ 190,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
-        },
-        {
           "id": 2,
           "title": "God of War",
-          "price": "R$ 109,90",
+          "price": "R$ 109,99",
+          "conditions": "ou 3x de R$ 36,66‬",
           "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
           "platform": "playstation"
         },
         {
-          "id": 3,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "id": 1,
+          "title": "Days Gone",
+          "oldPrice": "R$ 190,00",
+          "price": "R$ 149,90",
+          "conditions": "ou 5x de R$ 29,98‬",
+          "thumb": "https://media.playstation.com/is/image/SCEA/days-gone-listing-thumb-01-ps4-us-10jan19?$facebook$",
           "platform": "playstation"
         },
         {
           "id": 4,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
-        },
-        {
-          "id": 5,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "title": "Devil May Cry 5",
+          "price": "R$ 158,31",
+          "conditions": "ou 3x de R$ 35,98",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
           "platform": "playstation"
         }
       ]
@@ -136,39 +196,13 @@
       "description": "Coroados pelos magos da comunidade como o santo graal da plataforma! 🔮",
       "products": [
         {
-          "id": 1,
-          "title": "Days Gone",
-          "price": "R$ 190,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
-        },
-        {
-          "id": 2,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
-        },
-        {
           "id": 3,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
-        },
-        {
-          "id": 4,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
-        },
-        {
-          "id": 5,
-          "title": "God of War",
-          "price": "R$ 109,90",
-          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
-          "platform": "playstation"
+          "title": "Devil May Cry 5",
+          "oldPrice": "R$ 99,00",
+          "price": "R$ 89,90",
+          "conditions": "ou 3x de R$ 32,93",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+          "platform": "xbox"
         }
       ]
     }

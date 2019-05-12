@@ -14,14 +14,15 @@ main {
   border-radius: 6px;
   box-shadow: 0.5px 0.5px 4px rgba(#000, 0.2);
   cursor: pointer;
-  transition: box-shadow 0.18s;
+  transition: all 0.15s;
 
   &:hover {
-    box-shadow: 0.5px 0.5px 10px rgba(#000, 0.2);
+    box-shadow: 0 5px 10px rgba(#000, 0.2);
+    margin-top: 5px;
   }
 
   img {
-    width: 100%;
+    width: 220px;
     height: 230px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
@@ -70,8 +71,6 @@ main {
       display: flex;
       flex-direction: column;
 
-      color: rgb(8, 214, 25);
-
       strong {
         font-weight: 500;
         font-size: 22px;
@@ -83,6 +82,20 @@ main {
         text-decoration: none;
         opacity: 1;
         margin-top: -5px;
+      }
+    }
+
+    .inOffer {
+      color: rgb(8, 214, 25);
+    }
+
+    .withoutConditions {
+      strong {
+        font-size: 27px;
+      }
+
+      small {
+        height: 3px;
       }
     }
 

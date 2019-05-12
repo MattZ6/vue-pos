@@ -1,5 +1,5 @@
 <template>
-  <router-link to="/product">
+  <router-link :to="'/product/' + product.id">
     <main>
       <img v-bind:src="product.thumb">
       <p
@@ -8,7 +8,9 @@
       >{{ product.platform }}</p>
       <section>
         <small>{{ product.oldPrice }}</small>
-        <div>
+        <div
+          :class="[product.oldPrice ? 'inOffer':'', !product.conditions ? 'withoutConditions' : '']"
+        >
           <strong>{{ product.price }}</strong>
           <small>{{ product.conditions }}</small>
         </div>
