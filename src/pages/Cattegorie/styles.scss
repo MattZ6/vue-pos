@@ -1,0 +1,22 @@
+main {
+  header {
+    h2,
+    p {
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  section {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    margin-top: 30px;
+  }
+
+  .justifyCenter {
+    justify-content: center;
+  }
+}

@@ -1,0 +1,18 @@
+.bgEscuro {
+  background-color: #222;
+  color: #fff;
+}
+
+hr {
+  border-color: rgba(#fff, 0.2);
+}
+
+.customLink {
+  text-transform: uppercase;
+  font-weight: 500;
+  transition: all 0.16s;
+
+  &:hover {
+    text-decoration: none;
+  }
+}

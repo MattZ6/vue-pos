@@ -1,0 +1,729 @@
+{
+  "cart": [],
+  "products": [
+    {
+      "id": 1,
+      "title": "Days Gone",
+      "oldPrice": "R$ 190,00",
+      "price": "R$ 149,90",
+      "conditions": "ou 5x de R$ 29,98‬",
+      "thumb": "https://media.playstation.com/is/image/SCEA/days-gone-listing-thumb-01-ps4-us-10jan19?$facebook$",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://gamingbolt.com/wp-content/uploads/2019/03/days-gone-image-1.jpg",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "url": "http://images.pushsquare.com/news/2019/05/playstation_store_sales_charts_days_gone_and_mortal_kombat_11_duke_it_out_for_the_top_spot/large.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://www.gamereactor.pt/media/65/daysgone_2466533b.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://s2.best-wallpaper.net/wallpaper/2560x1600/1811/PS4-game-Days-Gone_2560x1600.jpg",
+          "selected": true
+        },
+        {
+          "id": 5,
+          "url": "https://cosmonerd.com.br/wp-content/uploads/2019/04/WCCFdaysgone5.jpg"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Em um mundo pós apocalíptico, onde pouca bondade é vista por parte da humanidade, Deacon tenta sobreviver em meio das lembranças de seu passado e de sua noiva.",
+      "description": null,
+      "sold": 130,
+      "stock": 380
+    },
+    {
+      "id": 2,
+      "title": "God of War",
+      "price": "R$ 109,99",
+      "conditions": "ou 3x de R$ 36,66‬",
+      "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://galaxianerd.com/wp-content/uploads/2017/06/God-of-War.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://timeline.canaltech.com.br/283482.700/analise-god-of-war-112270.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://igamerbrasil.com.br/wp-content/uploads/2018/04/god-of-war-20180402115205.jpg"
+        },
+        {
+          "id": 4,
+          "url": "http://www.joinvillegames.com.br/blog/wp-content/uploads/2017/09/god_of_war_ps4_1280x720-1210x642.jpg"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Vivendo como um homem, fora da sombra dos deuses, Kratos deve se adaptar a terras desconhecidas, ameaças inesperadas e a uma segunda oportunidade de ser pai.",
+      "description": "Um novo começo ousado: sua vingança contra os deuses do Olimpo agora é passado e Kratos vive como um homem comum no reino dos monstros e deuses nórdicos. E é nesse mundo inóspito e implacável que ele precisa lutar para sobreviver... e ensinar seu filho a fazer o mesmo. Essa nova versão surpreendente de God of War desconstrói os principais elementos que definiram a série (combates gratificantes, proporção espetacular e uma narrativa poderosa), combinando-os de uma forma diferente.",
+      "sold": 243,
+      "stock": 98
+    },
+    {
+      "id": 3,
+      "title": "Devil May Cry 5",
+      "oldPrice": "R$ 99,00",
+      "price": "R$ 89,90",
+      "conditions": "ou 3x de R$ 32,93",
+      "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/12335363/redqueen2_png_jpgcopy.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://i.ytimg.com/vi/0upodloGrJg/maxresdefault.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://gameranx.com/wp-content/uploads/2019/02/maxresdefault-1-5.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://steamcdn-a.akamaihd.net/steam/apps/601150/ss_d1e0b403f593f17ad195c5382a7788d71c6f406a.1920x1080.jpg?t=1557194314"
+        },
+        {
+          "id": 5,
+          "url": "https://i.ytimg.com/vi/p2lWUQHUapM/maxresdefault.jpg"
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Cinco anos após os acontecimentos de DMC 4, Nero monta sua própria agência de caça a demônios baseada em uma van adornada com um letreiro em neon de \"Devil May Cry\" que Dante deu a ele com apoio de Kyrie e sua engenheira, Nico.",
+      "description": "Nero é equipado com sua espada Red Queen, seu revólver Blue Rose de cano duplo e uma variedade de novos braços robóticos chamados Devil Breakers, com uma variedade de funções como agarrar inimigos à distância ou parar para congelar um inimigo no local. Junto com sua lâmina de assinatura, a Rebellion, e a espada demoníaca Sparda, Dante foi mostrado usando dois novos Devil Arms, um par de armas que combinam com uma motocicleta chamada Cavaliere, e um conjunto de manoplas e botas de fogo chamadas Balrog. Além disso, Dante também usa o Cerberus, introduzido em Devil May Cry 3. O terceiro personagem jogável, V, é mostrado empunhando uma bengala e um livro. Durante uma entrevista, a Capcom decidiu não divulgar exatamente como V luta ainda, embora tenha provocado que o combate de V seria completamente diferente da de Nero e Dante. No trailer do jogo, apresentando no The Game Awards 2018, é revelado que V usa três demônios baseados em inimigos do primeiro jogo para lutar, incluindo Griffon, uma águia que usa ataques à distância, Shadow, uma pantera que forma lâminas, picos e portais fora de seu corpo, e Nightmare, um grande golem que V entra em um estado parecido com o Devil Trigger, que transforma seu cabelo branco, para convocar, que usa uma combinação de ataques corpo a corpo e raios laser.",
+      "sold": 99,
+      "stock": 121
+    },
+    {
+      "id": 4,
+      "title": "Devil May Cry 5",
+      "price": "R$ 158,31",
+      "conditions": "ou 3x de R$ 35,98",
+      "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://gameranx.com/wp-content/uploads/2019/02/maxresdefault-1-5.jpg",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://i.ytimg.com/vi/p2lWUQHUapM/maxresdefault.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://steamcdn-a.akamaihd.net/steam/apps/601150/ss_d1e0b403f593f17ad195c5382a7788d71c6f406a.1920x1080.jpg?t=1557194314"
+        },
+        {
+          "id": 4,
+          "url": "https://i.ytimg.com/vi/0upodloGrJg/maxresdefault.jpg"
+        },
+        {
+          "id": 5,
+          "url": "http://playeroneworld.com.br/wp-content/uploads/2018/11/dante-1.jpg"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Cinco anos após os acontecimentos de DMC 4, Nero monta sua própria agência de caça a demônios baseada em uma van adornada com um letreiro em neon de \"Devil May Cry\" que Dante deu a ele com apoio de Kyrie e sua engenheira, Nico.",
+      "description": "Nero é equipado com sua espada Red Queen, seu revólver Blue Rose de cano duplo e uma variedade de novos braços robóticos chamados Devil Breakers, com uma variedade de funções como agarrar inimigos à distância ou parar para congelar um inimigo no local. Junto com sua lâmina de assinatura, a Rebellion, e a espada demoníaca Sparda, Dante foi mostrado usando dois novos Devil Arms, um par de armas que combinam com uma motocicleta chamada Cavaliere, e um conjunto de manoplas e botas de fogo chamadas Balrog. Além disso, Dante também usa o Cerberus, introduzido em Devil May Cry 3. O terceiro personagem jogável, V, é mostrado empunhando uma bengala e um livro. Durante uma entrevista, a Capcom decidiu não divulgar exatamente como V luta ainda, embora tenha provocado que o combate de V seria completamente diferente da de Nero e Dante. No trailer do jogo, apresentando no The Game Awards 2018, é revelado que V usa três demônios baseados em inimigos do primeiro jogo para lutar, incluindo Griffon, uma águia que usa ataques à distância, Shadow, uma pantera que forma lâminas, picos e portais fora de seu corpo, e Nightmare, um grande golem que V entra em um estado parecido com o Devil Trigger, que transforma seu cabelo branco, para convocar, que usa uma combinação de ataques corpo a corpo e raios laser.",
+      "sold": 104,
+      "stock": 19
+    },
+    {
+      "id": 5,
+      "title": "Mortal Kombat XI",
+      "oldPrice": "R$ 199,99",
+      "price": "R$ 179,99",
+      "thumb": "https://techraptor.net/wp-content/uploads/2019/02/mortal-kombat-11-boxart-logo-902x507.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://cdn.gamerant.com/wp-content/uploads/mortal-kombat-11-scorpion-with-spear.jpg.optimal.jpg",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://i.imgur.com/i33pKzQ.png"
+        },
+        {
+          "id": 3,
+          "url": "https://images.tcdn.com.br/img/img_prod/654759/jogo_mortal_kombat_11_pre_venda_ps4_921_2_20190326231245.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-04-12-at-3-07-31-pm-1555096231.png"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Após Raiden matar Shinnok, quebrando assim o equilíbrio do universo, trouxe uma ameaça ainda maior ao planeta: Kronika, a Guardiã do Tempo, criadora de toda existência.",
+      "description": "Este novo modo história terá uma \"narrativa que envolve viagem no tempo\", algo que Ed Boon afirma que vai \"permitir situações em que os personagens mais velhos vão encontrar suas versões mais jovens\". Esta manipulação do tempo acontece porque Kronika, a primeira chefe mulher na história de Mortal Kombat, por ser Guardiã do Tempo e criadora de toda existência, precisa \"trazer ordem ao universo de qualquer maneira possível\", uma vez que Raiden quebrou esse equilíbrio ao matar Shinnok.",
+      "sold": 22,
+      "stock": 95
+    },
+    {
+      "id": 6,
+      "title": "Mortal Kombat XI",
+      "oldPrice": "R$ 199,99",
+      "price": "R$ 179,99",
+      "thumb": "https://techraptor.net/wp-content/uploads/2019/02/mortal-kombat-11-boxart-logo-902x507.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://cdn.vs.com.br/webedia-temp/1550854145600-screen-shot-2019-01-17-at-11-18-37-am.png"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn.gamerant.com/wp-content/uploads/mortal-kombat-11-scorpion-with-spear.jpg.optimal.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://tecnoblog.net/wp-content/uploads/2019/04/Mortal-Kombat-11-15.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://assets.vg247.com/current//2019/03/mortal_kombat_11_skarlet.png"
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Após Raiden matar Shinnok, quebrando assim o equilíbrio do universo, trouxe uma ameaça ainda maior ao planeta: Kronika, a Guardiã do Tempo, criadora de toda existência.",
+      "description": "Este novo modo história terá uma \"narrativa que envolve viagem no tempo\", algo que Ed Boon afirma que vai \"permitir situações em que os personagens mais velhos vão encontrar suas versões mais jovens\". Esta manipulação do tempo acontece porque Kronika, a primeira chefe mulher na história de Mortal Kombat, por ser Guardiã do Tempo e criadora de toda existência, precisa \"trazer ordem ao universo de qualquer maneira possível\", uma vez que Raiden quebrou esse equilíbrio ao matar Shinnok.",
+      "sold": 31,
+      "stock": 69
+    },
+    {
+      "id": 7,
+      "title": "Mortal Kombat XI - Premium Edition",
+      "price": "R$ 599,99",
+      "conditions": "ou 10x de R$ 59,99",
+      "thumb": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcsA3TaFoXkW5_NzNv7OvI3qXDEvmQrKyDooVthHBmHePMDMPehOjSfDP1uyuFoDzBA0n_bn04e7LWiE3KB3bgsP.8LZAfCipHm31NFpM_hh40mjPiKPnuuBN8Bb7tUNkKuNIh3_mrkz8W.VdDsrq7ajKJpTPl4Udotj9iPTKWaEY-&h=1080&w=1920&format=jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcsA3TaFoXkW5_NzNv7OvI3qXDEvmQrKyDooVthHBmHePMDMPehOjSfDP1uyuFoDzBA0n_bn04e7LWiE3KB3bgsP.8LZAfCipHm31NFpM_hh40mjPiKPnuuBN8Bb7tUNkKuNIh3_mrkz8W.VdDsrq7ajKJpTPl4Udotj9iPTKWaEY-&h=1080&w=1920&format=jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://ovicio.com.br/wp-content/uploads/mortal-kombat-11.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://i2.wp.com/gamepress.com.br/wp-content/uploads/2018/12/mk11.jpg?fit=800%2C341"
+        },
+        {
+          "id": 4,
+          "url": "http://cdn.vs.com.br/webedia-temp/1550854145600-screen-shot-2019-01-17-at-11-18-37-am.png"
+        },
+        {
+          "id": 5,
+          "url": "https://img.hype.games/cdn/e3f2cb83-332f-44d1-abf1-ac60717e518303.jpg"
+        },
+        {
+          "id": 6,
+          "url": "https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/5c1035948bf2d54730000010.jpeg"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Após Raiden matar Shinnok, quebrando assim o equilíbrio do universo, trouxe uma ameaça ainda maior ao planeta: Kronika, a Guardiã do Tempo, criadora de toda existência.",
+      "description": "Este novo modo história terá uma \"narrativa que envolve viagem no tempo\", algo que Ed Boon afirma que vai \"permitir situações em que os personagens mais velhos vão encontrar suas versões mais jovens\". Esta manipulação do tempo acontece porque Kronika, a primeira chefe mulher na história de Mortal Kombat, por ser Guardiã do Tempo e criadora de toda existência, precisa \"trazer ordem ao universo de qualquer maneira possível\", uma vez que Raiden quebrou esse equilíbrio ao matar Shinnok.",
+      "sold": 17,
+      "stock": 33
+    },
+    {
+      "id": 8,
+      "title": "Anthem",
+      "oldPrice": "R$ 141,07",
+      "price": "R$ 116,99",
+      "conditions": "ou 4x R$ 32,49",
+      "thumb": "https://media.contentapi.ea.com/content/dam/eacom/pt-br/migrated-images/2017/06/anthem-dylan.jpg.adapt.crop191x100.1200w.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://i0.wp.com/culturedvultures.com/wp-content/uploads/2019/02/DonovanRyder_Anthem_20190217_22-41-01.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": 2,
+          "url": "https://compass-ssl.xbox.com/assets/a9/73/a9738058-b882-41ca-ba23-02a36d7f7bb8.jpg?n=16841684_Gallery-0_1350x759_01.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://data1.origin.com/content/dam/originx/web/app/games/anthem/anthem/ANTHEM_reveal_screenshot_3.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://cdn.gamerant.com/wp-content/uploads/anthem-javelin-suit-trophy-achievements.jpg.optimal.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://www.centralxbox.com.br/wp-content/uploads/2019/02/Anthem-1.jpg"
+        },
+        {
+          "id": 6,
+          "url": "https://assets.vg247.com/current//2017/06/Anthem-Screenshot.jpg"
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Os jogadores assumem o papel de um Freelancer, um de um grupo de pessoas que deixam sua civilização para explorar uma paisagem circundante.",
+      "description": "Anthem combina elementos de jogo de tiro em terceira pessoa e RPG de ação em um \"mundo aberto contíguo\" compartilhado com até três outros jogadores, no qual eles assumem o papel de um Freelancer que usa exosuits totalmente personalizáveis ​​chamados Javelins. Essas roupas podem ser personalizadas para ter várias armas únicas e habilidades sobre-humanas. Duas classes de Javelins foram mostradas durante a apresentação de Anthem na E3 2017 durante a conferência da Microsoft: o Ranger, que é um Javelin versátil e equilibrado, e o Colossus, que é um Javelin maior e mais blindado para preencher mais um papel de tanker. Outros Javelins incluem o Storm, que usa tecnologia poderosa para liberar a \"fúria do hino\" enquanto flutua sem esforço no ar, e o Interceptor, que é focado em combates de curta distância e pode entrar e sair rapidamente do combate. Os jogadores podem construir relacionamentos com vários personagens não jogáveis, mas eles não podem estabelecer relacionamentos românticos com eles, como era uma marca registrada de jogos anteriores da BioWare. O ponto de encontro central do jogo acontece em Fort Tarsis, o reduto central do Hino. Construído pelo homônimo geral Helena Tarsis, serve como um assentamento fortificado contra as ameaças do mundo exterior e é também o ponto onde o jogador vai receber novas missões e trabalhos freelance. É um caldeirão onde todas as diferentes facções do jogo se encontram, incluindo os Sentinelas, Corvus, Cyphers e Arcanistas",
+      "sold": 83,
+      "stock": 101
+    },
+    {
+      "id": 9,
+      "title": "Anthem",
+      "oldPrice": "R$ 114,31",
+      "price": "R$ 107,90",
+      "conditions": "ou 3x R$ 35,96",
+      "thumb": "https://media.contentapi.ea.com/content/dam/eacom/pt-br/migrated-images/2017/06/anthem-dylan.jpg.adapt.crop191x100.1200w.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://www.centralxbox.com.br/wp-content/uploads/2019/02/Anthem-1.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://i0.wp.com/culturedvultures.com/wp-content/uploads/2019/02/DonovanRyder_Anthem_20190217_22-41-01.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": 3,
+          "url": "https://assets.vg247.com/current//2017/06/Anthem-Screenshot.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://data1.origin.com/content/dam/originx/web/app/games/anthem/anthem/ANTHEM_reveal_screenshot_3.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://compass-ssl.xbox.com/assets/a9/73/a9738058-b882-41ca-ba23-02a36d7f7bb8.jpg?n=16841684_Gallery-0_1350x759_01.jpg"
+        },
+        {
+          "id": 6,
+          "url": "https://cdn.gamerant.com/wp-content/uploads/anthem-javelin-suit-trophy-achievements.jpg.optimal.jpg"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Os jogadores assumem o papel de um Freelancer, um de um grupo de pessoas que deixam sua civilização para explorar uma paisagem circundante.",
+      "description": "Anthem combina elementos de jogo de tiro em terceira pessoa e RPG de ação em um \"mundo aberto contíguo\" compartilhado com até três outros jogadores, no qual eles assumem o papel de um Freelancer que usa exosuits totalmente personalizáveis ​​chamados Javelins. Essas roupas podem ser personalizadas para ter várias armas únicas e habilidades sobre-humanas. Duas classes de Javelins foram mostradas durante a apresentação de Anthem na E3 2017 durante a conferência da Microsoft: o Ranger, que é um Javelin versátil e equilibrado, e o Colossus, que é um Javelin maior e mais blindado para preencher mais um papel de tanker. Outros Javelins incluem o Storm, que usa tecnologia poderosa para liberar a \"fúria do hino\" enquanto flutua sem esforço no ar, e o Interceptor, que é focado em combates de curta distância e pode entrar e sair rapidamente do combate. Os jogadores podem construir relacionamentos com vários personagens não jogáveis, mas eles não podem estabelecer relacionamentos românticos com eles, como era uma marca registrada de jogos anteriores da BioWare. O ponto de encontro central do jogo acontece em Fort Tarsis, o reduto central do Hino. Construído pelo homônimo geral Helena Tarsis, serve como um assentamento fortificado contra as ameaças do mundo exterior e é também o ponto onde o jogador vai receber novas missões e trabalhos freelance. É um caldeirão onde todas as diferentes facções do jogo se encontram, incluindo os Sentinelas, Corvus, Cyphers e Arcanistas",
+      "sold": 42,
+      "stock": 27
+    },
+    {
+      "id": 10,
+      "title": "Tom Clancy's The Division 2",
+      "price": "R$ 158,31",
+      "conditions": "ou 5x R$ 35,98",
+      "thumb": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d292088f-c6ef-4f6a-bce5-782f916ea38d/dcx7hu1-8b8d03b4-0b02-4ee6-a06f-d0ed6977687e.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___the_division_2_by_graphfutur_dcx7hu1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2QyOTIwODhmLWM2ZWYtNGY2YS1iY2U1LTc4MmY5MTZlYTM4ZFwvZGN4N2h1MS04YjhkMDNiNC0wYjAyLTRlZTYtYTA2Zi1kMGVkNjk3NzY4N2UuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lZJz8mVDe9Fd9Rz6pqrPtyTTJm1cPwCa1pdQVQc64HQ",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://img.ibxk.com.br/2019/04/09/the-division-2-09180259146339.jpg?w=1040",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://cdn.vox-cdn.com/thumbor/OIx0e9JO14vFd4hLgprliWL4FwE=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/62839333/TCTD2_screen_e3_SP2_180611_230pm_1528731119.0.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://compass-ssl.xbox.com/assets/ae/80/ae808178-7496-430e-9826-9f1255e7206d.jpg?n=8905830_Highlight-Feature-1084_Feature-1_1600x600.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://conteudo.imguol.com.br/c/entretenimento/37/2019/02/01/the-division-2-1549047573518_v2_1920x1080.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://assets.gamespot.com.br/gs/wp-content/uploads/2019/03/15094812/The-Division-2-03.jpg"
+        },
+        {
+          "id": 6,
+          "url": "https://sm.ign.com/ign_br/screenshot/default/blob_1wjb.jpg"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Tom Clancy's The Division 2 é um RPG de tiro com campanha - cooperação e modos PvP que oferecem mais variedades nas missões e desafios - novos sistemas de progressão com surpresas únicas e inovações que oferecem novas formas de jogar.",
+      "description": "A história se passa 7 meses depois da infecção por vírus que ocorreu durante a Black Friday do primeiro game. Os líderes dos Estados Unidos estão mortos ou desaparecidos e uma nova equipe da The Division, ou A Divisão, um time de elite formado por sobreviventes do caos, é chamada para evitar que as facções do mal, formadas por extremistas religiosos, saqueadores e fascistas, assumam o poder e acabem com a democracia do país.",
+      "sold": 14,
+      "stock": 7
+    },
+    {
+      "id": 11,
+      "title": "Tom Clancy's The Division 2",
+      "price": "R$ 89,90",
+      "conditions": "ou 3x R$ 32,93",
+      "thumb": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d292088f-c6ef-4f6a-bce5-782f916ea38d/dcx7hu1-8b8d03b4-0b02-4ee6-a06f-d0ed6977687e.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___the_division_2_by_graphfutur_dcx7hu1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2QyOTIwODhmLWM2ZWYtNGY2YS1iY2U1LTc4MmY5MTZlYTM4ZFwvZGN4N2h1MS04YjhkMDNiNC0wYjAyLTRlZTYtYTA2Zi1kMGVkNjk3NzY4N2UuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lZJz8mVDe9Fd9Rz6pqrPtyTTJm1cPwCa1pdQVQc64HQ",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://sm.ign.com/ign_br/screenshot/default/blob_1wjb.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn.vox-cdn.com/thumbor/OIx0e9JO14vFd4hLgprliWL4FwE=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/62839333/TCTD2_screen_e3_SP2_180611_230pm_1528731119.0.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://conteudo.imguol.com.br/c/entretenimento/37/2019/02/01/the-division-2-1549047573518_v2_1920x1080.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://compass-ssl.xbox.com/assets/ae/80/ae808178-7496-430e-9826-9f1255e7206d.jpg?n=8905830_Highlight-Feature-1084_Feature-1_1600x600.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://assets.gamespot.com.br/gs/wp-content/uploads/2019/03/15094812/The-Division-2-03.jpg"
+        },
+        {
+          "id": 6,
+          "url": "https://img.ibxk.com.br/2019/04/09/the-division-2-09180259146339.jpg?w=1040"
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Tom Clancy's The Division 2 é um RPG de tiro com campanha - cooperação e modos PvP que oferecem mais variedades nas missões e desafios - novos sistemas de progressão com surpresas únicas e inovações que oferecem novas formas de jogar.",
+      "description": "A história se passa 7 meses depois da infecção por vírus que ocorreu durante a Black Friday do primeiro game. Os líderes dos Estados Unidos estão mortos ou desaparecidos e uma nova equipe da The Division, ou A Divisão, um time de elite formado por sobreviventes do caos, é chamada para evitar que as facções do mal, formadas por extremistas religiosos, saqueadores e fascistas, assumam o poder e acabem com a democracia do país.",
+      "sold": 24,
+      "stock": 3
+    },
+    {
+      "id": 12,
+      "title": "Sekiro: Shadows Die Twice",
+      "oldPrice": "R$ 219,91",
+      "price": "R$ 193,59",
+      "conditions": "ou 4x R$ R$ 54,99",
+      "thumb": "https://compass-ssl.xbox.com/assets/16/17/161706b2-010e-40bc-8c41-842f14506d47.jpg?n=Sekiro-Shadows-Die-Twice_GLP-Page-Hero-1084_1920x835_02.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://blog.us.playstation.com/tachyon/sites/4/2019/03/46695536711_0708723884_h.jpg?resize=1088,612"
+        },
+        {
+          "id": 2,
+          "url": "https://www.gamerview.com.br/wp-content/uploads/2018/06/Sekiro-Shadows-Die-Twice-mais-dificil-da-from.jpg"
+        },
+        {
+          "id": 3,
+          "url": "http://sm.ign.com/ign_br/screenshot/default/sekiro-jump-e3-2018-1920x1080_83uc.jpg"
+        },
+        {
+          "id": 4,
+          "url": "http://dailytitan.com/wp-content/uploads/2019/03/20190323232932_1.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2019/01/07/5701440d/news1.jpg"
+        },
+        {
+          "id": 6,
+          "url": "http://images.pushsquare.com/1b65b972b73d2/sekiro-shadows-die-twice-ps4-playstation-4.original.jpg"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Jogo de ação-aventura desenvolvido pela FromSoftware e publicado pela Activision. O jogo segue um shinobi chamado Sekiro que tenta se vingar de um samurai que o atacou e sequestrou seu lorde.",
+      "description": "Embora comparado com a série Souls, da FromSoftware, o jogo não apresenta elementos de RPG, como criação de personagens, classes e upgrades de equipamentos, além de não ter elementos multiplayer.  Em vez de atacar para reduzir os pontos de vida de um inimigo, o combate em Sekiro gira em torno de uma katana para atacar seu equilíbrio, o que eventualmente leva a uma abertura que permite um único golpe mortal. O jogo também possui elementos furtivos, permitindo que os jogadores eliminem imediatamente inimigos se eles puderem ficar no alcance sem serem detectados. Além disso, o personagem do jogador tem a habilidade de usar várias ferramentas para ajudar no combate e exploração, como um gancho e uma tocha. Se o personagem jogador morrer, ele terá a opção de ser revivido no local sob certas condições, em vez de reaparecer em pontos de checkpoint anteriores.",
+      "sold": 39,
+      "stock": 19
+    },
+    {
+      "id": 13,
+      "title": "Sekiro: Shadows Die Twice",
+      "price": "R$ 219,99",
+      "thumb": "https://compass-ssl.xbox.com/assets/16/17/161706b2-010e-40bc-8c41-842f14506d47.jpg?n=Sekiro-Shadows-Die-Twice_GLP-Page-Hero-1084_1920x835_02.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2019/01/07/5701440d/news1.jpg",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "http://dailytitan.com/wp-content/uploads/2019/03/20190323232932_1.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://blog.us.playstation.com/tachyon/sites/4/2019/03/46695536711_0708723884_h.jpg?resize=1088,612"
+        },
+        {
+          "id": 4,
+          "url": "http://images.pushsquare.com/1b65b972b73d2/sekiro-shadows-die-twice-ps4-playstation-4.original.jpg"
+        },
+        {
+          "id": 5,
+          "url": "http://sm.ign.com/ign_br/screenshot/default/sekiro-jump-e3-2018-1920x1080_83uc.jpg"
+        },
+        {
+          "id": 6,
+          "url": "https://www.gamerview.com.br/wp-content/uploads/2018/06/Sekiro-Shadows-Die-Twice-mais-dificil-da-from.jpg"
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Jogo de ação-aventura desenvolvido pela FromSoftware e publicado pela Activision. O jogo segue um shinobi chamado Sekiro que tenta se vingar de um samurai que o atacou e sequestrou seu lorde.",
+      "description": "Embora comparado com a série Souls, da FromSoftware, o jogo não apresenta elementos de RPG, como criação de personagens, classes e upgrades de equipamentos, além de não ter elementos multiplayer.  Em vez de atacar para reduzir os pontos de vida de um inimigo, o combate em Sekiro gira em torno de uma katana para atacar seu equilíbrio, o que eventualmente leva a uma abertura que permite um único golpe mortal. O jogo também possui elementos furtivos, permitindo que os jogadores eliminem imediatamente inimigos se eles puderem ficar no alcance sem serem detectados. Além disso, o personagem do jogador tem a habilidade de usar várias ferramentas para ajudar no combate e exploração, como um gancho e uma tocha. Se o personagem jogador morrer, ele terá a opção de ser revivido no local sob certas condições, em vez de reaparecer em pontos de checkpoint anteriores.",
+      "sold": 34,
+      "stock": 12
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "title": "Saindo do forno!",
+      "aside": "😋",
+      "description": "Fique por dentro dos lançamentos mais quentes do momento",
+      "products": [
+        {
+          "id": 1,
+          "title": "Days Gone",
+          "oldPrice": "R$ 190,00",
+          "price": "R$ 149,90",
+          "conditions": "ou 5x de R$ 29,98‬",
+          "thumb": "https://media.playstation.com/is/image/SCEA/days-gone-listing-thumb-01-ps4-us-10jan19?$facebook$",
+          "platform": 1
+        },
+        {
+          "id": 13,
+          "title": "Sekiro: Shadows Die Twice",
+          "price": "R$ 219,99",
+          "thumb": "https://compass-ssl.xbox.com/assets/16/17/161706b2-010e-40bc-8c41-842f14506d47.jpg?n=Sekiro-Shadows-Die-Twice_GLP-Page-Hero-1084_1920x835_02.jpg",
+          "platform": 2
+        },
+        {
+          "id": 10,
+          "title": "Tom Clancy's The Division 2",
+          "price": "R$ 158,31",
+          "conditions": "ou 5x R$ 35,98",
+          "thumb": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d292088f-c6ef-4f6a-bce5-782f916ea38d/dcx7hu1-8b8d03b4-0b02-4ee6-a06f-d0ed6977687e.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___the_division_2_by_graphfutur_dcx7hu1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2QyOTIwODhmLWM2ZWYtNGY2YS1iY2U1LTc4MmY5MTZlYTM4ZFwvZGN4N2h1MS04YjhkMDNiNC0wYjAyLTRlZTYtYTA2Zi1kMGVkNjk3NzY4N2UuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lZJz8mVDe9Fd9Rz6pqrPtyTTJm1cPwCa1pdQVQc64HQ",
+          "platform": 1
+        },
+        {
+          "id": 8,
+          "title": "Anthem",
+          "oldPrice": "R$ 141,07",
+          "price": "R$ 116,99",
+          "conditions": "ou 4x R$ 32,49",
+          "thumb": "https://media.contentapi.ea.com/content/dam/eacom/pt-br/migrated-images/2017/06/anthem-dylan.jpg.adapt.crop191x100.1200w.jpg",
+          "platform": 2
+        },
+        {
+          "id": 3,
+          "title": "Devil May Cry 5",
+          "oldPrice": "R$ 99,00",
+          "price": "R$ 89,90",
+          "conditions": "ou 3x de R$ 32,93",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+          "platform": 2
+        },
+        {
+          "id": 5,
+          "title": "Mortal Kombat XI",
+          "oldPrice": "R$ 199,99",
+          "price": "R$ 179,99",
+          "thumb": "https://techraptor.net/wp-content/uploads/2019/02/mortal-kombat-11-boxart-logo-902x507.jpg",
+          "platform": 2
+        },
+        {
+          "id": 12,
+          "title": "Sekiro: Shadows Die Twice",
+          "oldPrice": "R$ 219,91",
+          "price": "R$ 193,59",
+          "conditions": "ou 4x R$ R$ 54,99",
+          "thumb": "https://compass-ssl.xbox.com/assets/16/17/161706b2-010e-40bc-8c41-842f14506d47.jpg?n=Sekiro-Shadows-Die-Twice_GLP-Page-Hero-1084_1920x835_02.jpg",
+          "platform": 1
+        },
+        {
+          "id": 7,
+          "title": "Mortal Kombat XI - Premium Edition",
+          "price": "R$ 599,99",
+          "conditions": "ou 10x de R$ 59,99",
+          "thumb": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcsA3TaFoXkW5_NzNv7OvI3qXDEvmQrKyDooVthHBmHePMDMPehOjSfDP1uyuFoDzBA0n_bn04e7LWiE3KB3bgsP.8LZAfCipHm31NFpM_hh40mjPiKPnuuBN8Bb7tUNkKuNIh3_mrkz8W.VdDsrq7ajKJpTPl4Udotj9iPTKWaEY-&h=1080&w=1920&format=jpg",
+          "platform": 1
+        },
+        {
+          "id": 4,
+          "title": "Devil May Cry 5",
+          "price": "R$ 158,31",
+          "conditions": "ou 3x de R$ 35,98",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+          "platform": 1
+        },
+        {
+          "id": 9,
+          "title": "Anthem",
+          "oldPrice": "R$ 114,31",
+          "price": "R$ 107,90",
+          "conditions": "ou 3x R$ 35,96",
+          "thumb": "https://media.contentapi.ea.com/content/dam/eacom/pt-br/migrated-images/2017/06/anthem-dylan.jpg.adapt.crop191x100.1200w.jpg",
+          "platform": 2
+        },
+        {
+          "id": 6,
+          "title": "Mortal Kombat XI",
+          "oldPrice": "R$ 199,99",
+          "price": "R$ 179,99",
+          "thumb": "https://techraptor.net/wp-content/uploads/2019/02/mortal-kombat-11-boxart-logo-902x507.jpg",
+          "platform": 1
+        },
+        {
+          "id": 11,
+          "title": "Tom Clancy's The Division 2",
+          "price": "R$ 89,90",
+          "conditions": "ou 3x R$ 32,93",
+          "thumb": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d292088f-c6ef-4f6a-bce5-782f916ea38d/dcx7hu1-8b8d03b4-0b02-4ee6-a06f-d0ed6977687e.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___the_division_2_by_graphfutur_dcx7hu1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2QyOTIwODhmLWM2ZWYtNGY2YS1iY2U1LTc4MmY5MTZlYTM4ZFwvZGN4N2h1MS04YjhkMDNiNC0wYjAyLTRlZTYtYTA2Zi1kMGVkNjk3NzY4N2UuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lZJz8mVDe9Fd9Rz6pqrPtyTTJm1cPwCa1pdQVQc64HQ",
+          "platform": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Em destaque",
+      "description": "Os jogos mais procurados pela galera",
+      "products": [
+        {
+          "id": 1,
+          "title": "Days Gone",
+          "oldPrice": "R$ 190,00",
+          "price": "R$ 149,90",
+          "conditions": "ou 5x de R$ 29,98‬",
+          "thumb": "https://media.playstation.com/is/image/SCEA/days-gone-listing-thumb-01-ps4-us-10jan19?$facebook$",
+          "platform": 1
+        },
+        {
+          "id": 10,
+          "title": "Tom Clancy's The Division 2",
+          "price": "R$ 158,31",
+          "conditions": "ou 5x R$ 35,98",
+          "thumb": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d292088f-c6ef-4f6a-bce5-782f916ea38d/dcx7hu1-8b8d03b4-0b02-4ee6-a06f-d0ed6977687e.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___the_division_2_by_graphfutur_dcx7hu1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2QyOTIwODhmLWM2ZWYtNGY2YS1iY2U1LTc4MmY5MTZlYTM4ZFwvZGN4N2h1MS04YjhkMDNiNC0wYjAyLTRlZTYtYTA2Zi1kMGVkNjk3NzY4N2UuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lZJz8mVDe9Fd9Rz6pqrPtyTTJm1cPwCa1pdQVQc64HQ",
+          "platform": 1
+        },
+        {
+          "id": 5,
+          "title": "Mortal Kombat XI",
+          "oldPrice": "R$ 199,99",
+          "price": "R$ 179,99",
+          "thumb": "https://techraptor.net/wp-content/uploads/2019/02/mortal-kombat-11-boxart-logo-902x507.jpg",
+          "platform": 2
+        },
+        {
+          "id": 2,
+          "title": "God of War",
+          "price": "R$ 109,99",
+          "conditions": "ou 3x de R$ 36,66‬",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": 1
+        },
+        {
+          "id": 3,
+          "title": "Devil May Cry 5",
+          "oldPrice": "R$ 99,00",
+          "price": "R$ 89,90",
+          "conditions": "ou 3x de R$ 32,93",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+          "platform": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mais vendidos de Playstation",
+      "description": "Segundo nossos clientes, os melhores da plataforma 😉",
+      "products": [
+        {
+          "id": 2,
+          "title": "God of War",
+          "price": "R$ 109,99",
+          "conditions": "ou 3x de R$ 36,66‬",
+          "thumb": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+          "platform": 1
+        },
+        {
+          "id": 1,
+          "title": "Days Gone",
+          "oldPrice": "R$ 190,00",
+          "price": "R$ 149,90",
+          "conditions": "ou 5x de R$ 29,98‬",
+          "thumb": "https://media.playstation.com/is/image/SCEA/days-gone-listing-thumb-01-ps4-us-10jan19?$facebook$",
+          "platform": 1
+        },
+        {
+          "id": 4,
+          "title": "Devil May Cry 5",
+          "price": "R$ 158,31",
+          "conditions": "ou 3x de R$ 35,98",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+          "platform": 1
+        },
+        {
+          "id": 10,
+          "title": "Tom Clancy's The Division 2",
+          "price": "R$ 158,31",
+          "conditions": "ou 5x R$ 35,98",
+          "thumb": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d292088f-c6ef-4f6a-bce5-782f916ea38d/dcx7hu1-8b8d03b4-0b02-4ee6-a06f-d0ed6977687e.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___the_division_2_by_graphfutur_dcx7hu1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2QyOTIwODhmLWM2ZWYtNGY2YS1iY2U1LTc4MmY5MTZlYTM4ZFwvZGN4N2h1MS04YjhkMDNiNC0wYjAyLTRlZTYtYTA2Zi1kMGVkNjk3NzY4N2UuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lZJz8mVDe9Fd9Rz6pqrPtyTTJm1cPwCa1pdQVQc64HQ",
+          "platform": 1
+        },
+        {
+          "id": 12,
+          "title": "Sekiro: Shadows Die Twice",
+          "oldPrice": "R$ 219,91",
+          "price": "R$ 193,59",
+          "conditions": "ou 4x R$ R$ 54,99",
+          "thumb": "https://compass-ssl.xbox.com/assets/16/17/161706b2-010e-40bc-8c41-842f14506d47.jpg?n=Sekiro-Shadows-Die-Twice_GLP-Page-Hero-1084_1920x835_02.jpg",
+          "platform": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mais vendidos de Xbox",
+      "description": "Coroados pelos magos da comunidade como o santo graal da plataforma! 🔮",
+      "products": [
+        {
+          "id": 13,
+          "title": "Sekiro: Shadows Die Twice",
+          "price": "R$ 219,99",
+          "thumb": "https://compass-ssl.xbox.com/assets/16/17/161706b2-010e-40bc-8c41-842f14506d47.jpg?n=Sekiro-Shadows-Die-Twice_GLP-Page-Hero-1084_1920x835_02.jpg",
+          "platform": 2
+        },
+        {
+          "id": 11,
+          "title": "Tom Clancy's The Division 2",
+          "price": "R$ 89,90",
+          "conditions": "ou 3x R$ 32,93",
+          "thumb": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d292088f-c6ef-4f6a-bce5-782f916ea38d/dcx7hu1-8b8d03b4-0b02-4ee6-a06f-d0ed6977687e.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___the_division_2_by_graphfutur_dcx7hu1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2QyOTIwODhmLWM2ZWYtNGY2YS1iY2U1LTc4MmY5MTZlYTM4ZFwvZGN4N2h1MS04YjhkMDNiNC0wYjAyLTRlZTYtYTA2Zi1kMGVkNjk3NzY4N2UuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lZJz8mVDe9Fd9Rz6pqrPtyTTJm1cPwCa1pdQVQc64HQ",
+          "platform": 2
+        },
+        {
+          "id": 3,
+          "title": "Devil May Cry 5",
+          "oldPrice": "R$ 99,00",
+          "price": "R$ 89,90",
+          "conditions": "ou 3x de R$ 32,93",
+          "thumb": "https://www.thelantern.com/files/2019/04/MOMS-CSM-GAME-REVIEW-DEVIL-MAY-CRY-5-1-MCT-1fd2ltt.jpg",
+          "platform": 2
+        },
+        {
+          "id": 5,
+          "title": "Mortal Kombat XI",
+          "oldPrice": "R$ 199,99",
+          "price": "R$ 179,99",
+          "thumb": "https://techraptor.net/wp-content/uploads/2019/02/mortal-kombat-11-boxart-logo-902x507.jpg",
+          "platform": 2
+        },
+        {
+          "id": 9,
+          "title": "Anthem",
+          "oldPrice": "R$ 114,31",
+          "price": "R$ 107,90",
+          "conditions": "ou 3x R$ 35,96",
+          "thumb": "https://media.contentapi.ea.com/content/dam/eacom/pt-br/migrated-images/2017/06/anthem-dylan.jpg.adapt.crop191x100.1200w.jpg",
+          "platform": 2
+        }
+      ]
+    }
+  ]
+}

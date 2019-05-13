@@ -1,0 +1,34 @@
+.bgEscuro {
+  background-color: #222;
+}
+
+.corClara {
+  color: #fff;
+  position: relative;
+
+  a {
+    color: #fff;
+  }
+
+  .badge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 10px;
+  }
+}
+
+.customLink {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #333;
+  border-bottom: 2px solid transparent;
+  transition: all 0.16s;
+
+  &:hover {
+    border-color: #333;
+  }
+}
