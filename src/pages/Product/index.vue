@@ -52,8 +52,17 @@
             <small class="d-none d-xl-flex">{{ product.conditions }}</small>
           </div>
           <small
-            :class="['d-lg-flex d-xl-none conditionBottom',product.oldPrice ? 'conditionOffer' : '']"
+            :class="['d-lg-flex d-xl-none conditionBottom', product.oldPrice ? 'conditionOffer' : '']"
           >{{ product.conditions }}</small>
+
+          <select
+            v-model="items"
+            placeholder="Quantidade"
+            class="form-control form-control-sm mt-2"
+          >
+            <option disabled value>Selecione a quantidade</option>
+            <option v-for="qtd in product.stock" :key="qtd">{{ qtd }}</option>
+          </select>
 
           <button v-if="product.stock !== 0" v-on:click="addToCart">Adicionar ao carrinho</button>
 
@@ -88,6 +97,11 @@
           :class="['d-xs-flex d-sm-none conditionBottom',product.oldPrice ? 'conditionOffer' : '']"
         >{{ product.conditions }}</small>
 
+        <select v-model="items" placeholder="Quantidade" class="form-control form-control-sm mt-3">
+          <option disabled value>Selecione a quantidade</option>
+          <option v-for="qtd in product.stock" :key="qtd">{{ qtd }}</option>
+        </select>
+
         <button v-if="product.stock !== 0" v-on:click="addToCart">Adicionar ao carrinho</button>
 
         <strong v-if="product.stock === 0">
@@ -117,6 +131,7 @@ export default {
   props: ["id"],
   data: () => {
     return {
+      items: 0,
       product: {},
       loading: true,
       selectedImage: 0
@@ -130,13 +145,25 @@ export default {
       this.selectedImage = index;
       this.product.images[index].selected = true;
     },
-    addToCart() {
-      if (this.product.stock === 0) return;
-      this.product.stock -= 1;
+    async addToCart() {
+      if (this.product.stock === 0 || this.items === 0) return;
+      this.product.stock -= this.items;
+      this.product.sold = Number(this.product.sold) + Number(this.items);
+      this.items = 0;
 
-      this.$store.commit("ADD_ITEM", this.product.id);
+      const cart = this.$store.state.cart;
 
-      // this.product.sold += 1;
+      const exists = cart.findIndex(({ id }) => id === this.product.id);
+
+      console.log(exists);
+
+      if (exists === -1) {
+        this.$store.commit("ADD_ITEM", this.product.id);
+
+        await api.post("cart", this.product);
+      }
+
+      api.put(`/products/${this.product.id}`, this.product);
     }
   },
   computed: {

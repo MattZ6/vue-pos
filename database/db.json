@@ -1,4 +1,5 @@
 {
+  "cart": [],
   "products": [
     {
       "id": 1,
@@ -10,7 +11,8 @@
       "images": [
         {
           "id": 1,
-          "url": "https://gamingbolt.com/wp-content/uploads/2019/03/days-gone-image-1.jpg"
+          "url": "https://gamingbolt.com/wp-content/uploads/2019/03/days-gone-image-1.jpg",
+          "selected": false
         },
         {
           "id": 2,
@@ -22,7 +24,8 @@
         },
         {
           "id": 4,
-          "url": "https://s2.best-wallpaper.net/wallpaper/2560x1600/1811/PS4-game-Days-Gone_2560x1600.jpg"
+          "url": "https://s2.best-wallpaper.net/wallpaper/2560x1600/1811/PS4-game-Days-Gone_2560x1600.jpg",
+          "selected": true
         },
         {
           "id": 5,
@@ -32,8 +35,8 @@
       "platform": 1,
       "shortDescription": "Em um mundo pós apocalíptico, onde pouca bondade é vista por parte da humanidade, Deacon tenta sobreviver em meio das lembranças de seu passado e de sua noiva.",
       "description": null,
-      "sold": 127,
-      "stock": 384
+      "sold": 130,
+      "stock": 380
     },
     {
       "id": 2,
@@ -109,7 +112,8 @@
       "images": [
         {
           "id": 1,
-          "url": "https://gameranx.com/wp-content/uploads/2019/02/maxresdefault-1-5.jpg"
+          "url": "https://gameranx.com/wp-content/uploads/2019/02/maxresdefault-1-5.jpg",
+          "selected": true
         },
         {
           "id": 2,
@@ -131,8 +135,8 @@
       "platform": 1,
       "shortDescription": "Cinco anos após os acontecimentos de DMC 4, Nero monta sua própria agência de caça a demônios baseada em uma van adornada com um letreiro em neon de \"Devil May Cry\" que Dante deu a ele com apoio de Kyrie e sua engenheira, Nico.",
       "description": "Nero é equipado com sua espada Red Queen, seu revólver Blue Rose de cano duplo e uma variedade de novos braços robóticos chamados Devil Breakers, com uma variedade de funções como agarrar inimigos à distância ou parar para congelar um inimigo no local. Junto com sua lâmina de assinatura, a Rebellion, e a espada demoníaca Sparda, Dante foi mostrado usando dois novos Devil Arms, um par de armas que combinam com uma motocicleta chamada Cavaliere, e um conjunto de manoplas e botas de fogo chamadas Balrog. Além disso, Dante também usa o Cerberus, introduzido em Devil May Cry 3. O terceiro personagem jogável, V, é mostrado empunhando uma bengala e um livro. Durante uma entrevista, a Capcom decidiu não divulgar exatamente como V luta ainda, embora tenha provocado que o combate de V seria completamente diferente da de Nero e Dante. No trailer do jogo, apresentando no The Game Awards 2018, é revelado que V usa três demônios baseados em inimigos do primeiro jogo para lutar, incluindo Griffon, uma águia que usa ataques à distância, Shadow, uma pantera que forma lâminas, picos e portais fora de seu corpo, e Nightmare, um grande golem que V entra em um estado parecido com o Devil Trigger, que transforma seu cabelo branco, para convocar, que usa uma combinação de ataques corpo a corpo e raios laser.",
-      "sold": 102,
-      "stock": 21
+      "sold": 104,
+      "stock": 19
     },
     {
       "id": 5,
@@ -143,9 +147,13 @@
       "images": [
         {
           "id": 1,
-          "url": "https://cdn.gamerant.com/wp-content/uploads/mortal-kombat-11-scorpion-with-spear.jpg.optimal.jpg"
+          "url": "https://cdn.gamerant.com/wp-content/uploads/mortal-kombat-11-scorpion-with-spear.jpg.optimal.jpg",
+          "selected": true
         },
-        { "id": 2, "url": "https://i.imgur.com/i33pKzQ.png" },
+        {
+          "id": 2,
+          "url": "https://i.imgur.com/i33pKzQ.png"
+        },
         {
           "id": 3,
           "url": "https://images.tcdn.com.br/img/img_prod/654759/jogo_mortal_kombat_11_pre_venda_ps4_921_2_20190326231245.jpg"
@@ -158,8 +166,8 @@
       "platform": 1,
       "shortDescription": "Após Raiden matar Shinnok, quebrando assim o equilíbrio do universo, trouxe uma ameaça ainda maior ao planeta: Kronika, a Guardiã do Tempo, criadora de toda existência.",
       "description": "Este novo modo história terá uma \"narrativa que envolve viagem no tempo\", algo que Ed Boon afirma que vai \"permitir situações em que os personagens mais velhos vão encontrar suas versões mais jovens\". Esta manipulação do tempo acontece porque Kronika, a primeira chefe mulher na história de Mortal Kombat, por ser Guardiã do Tempo e criadora de toda existência, precisa \"trazer ordem ao universo de qualquer maneira possível\", uma vez que Raiden quebrou esse equilíbrio ao matar Shinnok.",
-      "sold": 23,
-      "stock": 97
+      "sold": 22,
+      "stock": 95
     },
     {
       "id": 6,
@@ -316,7 +324,8 @@
       "images": [
         {
           "id": 1,
-          "url": "https://img.ibxk.com.br/2019/04/09/the-division-2-09180259146339.jpg?w=1040"
+          "url": "https://img.ibxk.com.br/2019/04/09/the-division-2-09180259146339.jpg?w=1040",
+          "selected": true
         },
         {
           "id": 2,
@@ -342,8 +351,8 @@
       "platform": 1,
       "shortDescription": "Tom Clancy's The Division 2 é um RPG de tiro com campanha - cooperação e modos PvP que oferecem mais variedades nas missões e desafios - novos sistemas de progressão com surpresas únicas e inovações que oferecem novas formas de jogar.",
       "description": "A história se passa 7 meses depois da infecção por vírus que ocorreu durante a Black Friday do primeiro game. Os líderes dos Estados Unidos estão mortos ou desaparecidos e uma nova equipe da The Division, ou A Divisão, um time de elite formado por sobreviventes do caos, é chamada para evitar que as facções do mal, formadas por extremistas religiosos, saqueadores e fascistas, assumam o poder e acabem com a democracia do país.",
-      "sold": 13,
-      "stock": 9
+      "sold": 14,
+      "stock": 7
     },
     {
       "id": 11,
@@ -430,7 +439,8 @@
       "images": [
         {
           "id": 1,
-          "url": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2019/01/07/5701440d/news1.jpg"
+          "url": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2019/01/07/5701440d/news1.jpg",
+          "selected": true
         },
         {
           "id": 2,
@@ -456,8 +466,8 @@
       "platform": 2,
       "shortDescription": "Jogo de ação-aventura desenvolvido pela FromSoftware e publicado pela Activision. O jogo segue um shinobi chamado Sekiro que tenta se vingar de um samurai que o atacou e sequestrou seu lorde.",
       "description": "Embora comparado com a série Souls, da FromSoftware, o jogo não apresenta elementos de RPG, como criação de personagens, classes e upgrades de equipamentos, além de não ter elementos multiplayer.  Em vez de atacar para reduzir os pontos de vida de um inimigo, o combate em Sekiro gira em torno de uma katana para atacar seu equilíbrio, o que eventualmente leva a uma abertura que permite um único golpe mortal. O jogo também possui elementos furtivos, permitindo que os jogadores eliminem imediatamente inimigos se eles puderem ficar no alcance sem serem detectados. Além disso, o personagem do jogador tem a habilidade de usar várias ferramentas para ajudar no combate e exploração, como um gancho e uma tocha. Se o personagem jogador morrer, ele terá a opção de ser revivido no local sob certas condições, em vez de reaparecer em pontos de checkpoint anteriores.",
-      "sold": 32,
-      "stock": 14
+      "sold": 34,
+      "stock": 12
     }
   ],
   "sections": [

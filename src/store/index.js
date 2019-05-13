@@ -13,9 +13,13 @@ export default new Vuex.Store({
       state.cart.push(payload);
       state.qtd++;
     },
-    REMOVE_ITEM(state, payload) {
-      state = state.cart.filter(id => id !== payload);
-      state.qtd--;
+    ADD_CART(state, payload) {
+      state.cart = payload;
+      state.qtd = payload.length;
+    },
+    REMOVE(state) {
+      state.cart = [];
+      state.qtd = 0;
     }
   }
 });

@@ -14,10 +14,17 @@
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 
+import api from "./api";
+
 export default {
   components: {
     NavBar,
     Footer
+  },
+  async created() {
+    const { data } = await api.get("/cart");
+
+    this.$store.commit("ADD_CART", data);
   }
 };
 </script>

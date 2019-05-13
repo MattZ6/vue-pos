@@ -31,7 +31,12 @@
 
             <ul class="list-unstyled">
               <li>
-                <router-link class="customLink" to="/">Sites semelhantes</router-link>
+                <a
+                  class="customLink"
+                  href="../../assets/docs/pesquisa.pdf"
+                  download="pesquisa.pdf"
+                  target="blank"
+                >Sites semelhantes</a>
               </li>
             </ul>
           </div>

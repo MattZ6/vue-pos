@@ -25,5 +25,11 @@ export default new Router({
       props: true,
       component: () => import("./pages/Cattegorie")
     }
+    // { <-- Decidi finalizar por aqui mesmo...
+    //   path: "/cart",
+    //   name: "cart",
+    //   props: true,
+    //   component: () => import("./pages/Cart")
+    // }
   ]
 });
