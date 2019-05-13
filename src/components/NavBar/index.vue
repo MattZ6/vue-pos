@@ -13,7 +13,7 @@
           Lojinha
         </router-link>
 
-        <form class="col-7 input-group">
+        <form class="col-7 input-group d-none d-md-flex">
           <input
             class="form-control form-control-sm"
             type="search"
@@ -29,7 +29,7 @@
 
         <div>
           <button type="button" class="btn btn-md corClara">
-            <span class="badge-danger badge">4</span>
+            <div v-if="count > 0" class="badge-danger badge">{{ count }}</div>
             <i class="fa fa-shopping-cart"></i>
           </button>
 
@@ -47,13 +47,21 @@
       <li class="nav-item">
         <router-link class="nav-link customLink" to="/cattegorie/1">Playstation</router-link>
       </li>
+      <li class="nav-item">
+        <router-link class="nav-link customLink" to="/cattegorie/1">Sites semelhantes</router-link>
+      </li>
     </ul>
   </div>
 </template>
 
 <script>
 export default {
-  name: "NavBar"
+  name: "NavBar",
+  computed: {
+    count() {
+      return this.$store.state.qtd;
+    }
+  }
 };
 </script>
 

@@ -6,8 +6,12 @@
         <p v-text="this.description"></p>
       </header>
 
-      <section>
+      <section class="d-none d-md-flex">
         <Product v-for="product in productsList" :key="product.id" :product="product" :big="true"/>
+      </section>
+
+      <section class="d-flex d-md-none justifyCenter">
+        <Product v-for="product in productsList" :key="product.id" :product="product"/>
       </section>
     </main>
 
@@ -65,3 +69,5 @@ export default {
 <style lang="scss" scoped>
 @import "./styles.scss";
 </style>
+
+  

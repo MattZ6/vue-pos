@@ -31,7 +31,7 @@
 
             <ul class="list-unstyled">
               <li>
-                <router-link class="customLink" to="/">Pesquisa</router-link>
+                <router-link class="customLink" to="/">Sites semelhantes</router-link>
               </li>
             </ul>
           </div>

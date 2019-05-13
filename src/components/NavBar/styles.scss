@@ -4,12 +4,17 @@
 
 .corClara {
   color: #fff;
-}
+  position: relative;
 
-.badge {
-  font-size: 10px;
-  margin: -20px 0 0;
-  border-radius: 50%;
+  .badge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 10px;
+  }
 }
 
 .customLink {
